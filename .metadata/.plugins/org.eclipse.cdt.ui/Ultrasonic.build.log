@@ -1,0 +1,9 @@
+12:59:54 **** Rebuild of configuration Debug for project Ultrasonic ****
+Info: Internal Builder is used for build
+arm-frc-linux-gnueabi-g++ -std=c++1y "-IC:\\Users\\nmasalha/wpilib/cpp/current/include" "-IC:\\Users\\nmasalha\\Desktop\\Nael\\FIRST\\FRC\\Workspace\\2017\\stream_works_2017\\Ultrasonic\\src" "-IC:\\Users\\nmasalha/wpilib/user/cpp/include" -O0 -Og -g3 -Wall -c -fmessage-length=0 -o "src\\Robot.o" "..\\src\\Robot.cpp" 
+..\src\Robot.cpp:43:1: error: expected declaration before '}' token
+ };
+ ^
+
+12:59:58 Build Finished (took 4s.240ms)
+
